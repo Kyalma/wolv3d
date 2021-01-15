@@ -1,0 +1,5 @@
+venv3/
+.vscode/
+profile.vmprof
+__pycache__
+*.pyc
